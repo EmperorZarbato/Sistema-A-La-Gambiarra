@@ -1,0 +1,5 @@
+asdasd;asdasd;124.0;0
+1;Preto e branco;5.5;0;
+1;Preto e branco;5.5;0;
+2;desc;1.0;0;
+1;preto e branco;5.5;0;wgwrg
